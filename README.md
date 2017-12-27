@@ -1,7 +1,7 @@
 Wyoming Women for Women
 =======================
 
-_The website for Wyoming Women for Women__
+_The website for Wyoming Women for Women_
 
 **Available at https://www.wyomingw4w.org**
 
