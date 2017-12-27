@@ -11,15 +11,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Women for Women"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Women for Women"
+description              : "Helping Make Reproductive Rights a Reality for Wyoming Women"
+url                      : "https://www.wyomingw4w.org"
+baseurl                  : "/"
+repository               : "wyomingw4w/wyomingw4w.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -28,8 +28,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                : # https://developers.facebook.com/docs/plugins/comments
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -69,12 +68,10 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -85,10 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Women for Women"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "A 501(c)(3) non-profit organization established in 1998 by Wyoming women"
+  location         : "Wyoming"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -255,6 +252,7 @@ defaults:
       share: true
       related: true
 
+# Dev Server
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
