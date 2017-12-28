@@ -21,35 +21,6 @@ repository               : "wyomingw4w/wyomingw4w.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false
 words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                : # https://developers.facebook.com/docs/plugins/comments
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
@@ -85,7 +56,7 @@ author:
   name             : "Women for Women"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A 501(c)(3) non-profit organization established in 1998 by Wyoming women"
-  location         : "Wyoming"
+  location         : "PO Box 1472, Lander, WY 82520"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -93,7 +64,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : wyomingwomenforwomen
   foursquare       :
   github           :
   gitlab           :
@@ -240,10 +211,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
@@ -251,6 +222,7 @@ defaults:
       comments: false
       share: true
       related: true
+
 
 # Dev Server
 webrick:

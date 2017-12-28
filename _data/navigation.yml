@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Providers"
+    url: /providers/
+  - title: "Financial Assistance"
+    url: /financial/
+  - title: "About Abortion"
+    url: /abortion/
+  - title: "FAQ"
+    url: /faq/
+  - title: "About Us"
+    url: /about/
+  - title: "News"
+    url: /news/
