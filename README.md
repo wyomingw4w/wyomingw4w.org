@@ -8,12 +8,12 @@ _The website for Wyoming Women for Women_
 Requirements
 ------------
 
-h3. Built with
+### Built with
 
 * [jekyll](https://jekyllrb.com/)
 * [minimal-mistake theme](https://mmistakes.github.io/minimal-mistakes/)
 
-h3. Prerequisites
+### Prerequisites
 
 * [rbenv](https://github.com/rbenv/rbenv)
 
