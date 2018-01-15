@@ -52,6 +52,10 @@ default: 'default' }}"; // skin
     font-size: .85em;
 }
 
+.page__content ol {
+    font-size: .85em;
+}
+
 .sidebar.sticky {
     height: auto;
 }
