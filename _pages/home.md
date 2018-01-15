@@ -21,5 +21,5 @@ available to all women, not just those with financial resources.
 If you have any questions, are ready to ask for assistance (ideally
 review the page on [financial assistance](financial) first), or are
 just too overwhelmed to read this website, **CALL US AT
-{{site.author.phone }}**. If we don't answer immediately, leave a
-message. We will get back to you within 24 hours.
+{{site.author.phone }}**. If we don't answer, please leave a
+message. We will get back to you within 1 business day.
