@@ -2,7 +2,10 @@
 permalink: /about/
 layout: single
 title: "About Women for Women"
+toc: true
 ---
+
+## Overview
 
 Women for Women is a 501(c)(3) non-profit organization established in
 1998 by Wyoming women determined to make sure that despite Wyoming's
@@ -65,4 +68,3 @@ Women for Women
 P.O. Box 1472  
 Lander, WY 82520  
 {: .text-center}
-
