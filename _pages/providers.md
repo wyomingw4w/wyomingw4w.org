@@ -20,7 +20,6 @@ States:
     medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
     to end a pregnancy. It is generally available during the first 10
     weeks pregnancy.
-
 * **Surgical Abortion:** This method of abortion involves a doctor
     [surgically ending](https://www.plannedparenthood.org/learn/abortion/in-clinic-abortion-procedures)
     a pregnancy. It is generally available through the second
