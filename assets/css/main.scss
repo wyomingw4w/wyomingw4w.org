@@ -12,7 +12,43 @@ default: 'default' }}"; // skin
     background-color: #ffffff;
 }
 
+.providers_list {
+    
+    cursor: default;
+
+    li {
+        list-style-type: none;
+        white-space: nowrap;
+    }
+    
+    a {
+        cursor: pointer;
+        color: inherit;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.providers_header {
+
+    font-size: .90em;
+
+    a {
+        color: inherit;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
 .page__content p {
+    font-size: .85em;
+}
+
+.page__content ul {
     font-size: .85em;
 }
 

@@ -1,0 +1,75 @@
+{% if include.state %}
+  {% assign providers = site.data.providers | where:"state",include.state %}
+{% else %}
+  {% assign providers = site.data.providers %}
+{% endif %}
+
+{% assign sorted_providers = providers | sort: 'name' %}
+
+{% for provider in sorted_providers %}
+
+  <h4 class="providers_header">
+    {% if provider.url %}
+      <a href="{{ provider.url }}">{{ provider.name }}</a>
+    {% else %}
+      {{ provider.name }}
+    {% endif %}
+  </h4>
+
+  {% if provider.note %}
+    <em>{{ provider.note}}</em>
+  {% endif %}
+  
+  <div class="providers_list">
+    <ul class="social-icons">
+      
+      {% if provider.address %}
+      <li>
+        <a href="https://www.google.com/maps/search/{{ provider.address }}" itemprop="url">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          {{ provider.address }}
+        </a>
+      </li>
+      {% endif %}
+      
+      {% if provider.url %}
+      <li>
+        <a href="{{ provider.url }}" itemprop="url">
+          <i class="fa fa-fw fa-chain" aria-hidden="true"></i>
+          {{ provider.url }}
+        </a>
+      </li>
+      {% endif %}
+
+      {% if provider.phone %}
+      <li>
+        <i class="fa fa-fw fa-phone-square" aria-hidden="true"></i>
+        {{ provider.phone }}
+      </li>
+      {% endif %}
+
+      {% if provider.medical %}
+      <li>
+        <i class="fa fa-fw fa-plus-square" aria-hidden="true"></i>
+        <strong>Medical:</strong>
+        {{ provider.medical }}
+        {% if provider.medical_cost %}
+        &mdash; <strong>{{ provider.medical_cost }}</strong>
+        {% endif %}
+      </li>
+      {% endif %}
+
+      {% if provider.surgical %}
+      <li>
+        <i class="fa fa-fw fa-h-square" aria-hidden="true"></i>
+        <strong>Surgical:</strong>
+        {{ provider.surgical }}
+        {% if provider.surgical_cost %}
+        &mdash; <strong>{{ provider.surgical_cost }}</strong>
+        {% endif %}
+      </li>
+      {% endif %}
+      
+    </ul>
+  </div>
+{% endfor %}
