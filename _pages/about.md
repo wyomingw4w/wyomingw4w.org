@@ -7,26 +7,19 @@ toc: true
 
 ## Overview
 
-Women for Women is a 501(c)(3) non-profit organization established in
-1998 by Wyoming women determined to make sure that despite Wyoming's
-remoteness and limited abortion services, Wyoming women can make and
-implement the critical personal decision whether to terminate a
-pregnancy. Wyoming women must travel either out of state or to the far
-western corner of Wyoming (Jackson) to access an abortion provider. As
-a result, they often incur substantial travel expenses and expenses
-associated with time away from work and other responsibilities, in
-addition to the cost of the procedure which typically varies from $445
-to $1300. Many women -- the hard-working single mom, the college
-student with two jobs, the recently laid-off mother, the teenager, the
-woman whose doctor told her she was physically incapable of becoming
-pregnant, to name just a few examples -- simply cannot come up with
-those funds in the short time before the procedure. We know there are
-many reasons a woman terminates a pregnancy. **WE TRUST WOMEN** to be
-the best able to make that decision for themselves. One out of four
-women in the United States has an abortion [by the age of
-45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). This
-means that despite what you may think, having an abortion is something
-many women decide is necessary and, in fact, critical to their lives.
+Women for Women is a 501(c)(3) non-profit organization established to
+ensure Wyoming women can make and implement the critical personal
+decision whether to terminate a pregnancy. Wyoming residents must
+travel out of state or to the far western corner of Wyoming to access
+an abortion provider. Consequently, in addition to the procedure’s
+cost, they often incur substantial expenses for travel and time away
+from responsibilities. Many cannot come up with those funds in the
+short time before the procedure. One in four women in the US has an
+abortion [by the age of
+45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). Having
+an abortion is something many women decide is necessary and critical
+to their lives. WE TRUST WOMEN to be the best at making that decision
+for themselves.
 
 ## Mission
 
