@@ -32,6 +32,28 @@ Planned Parenthood FtCo:
   surgical: "5 to 18 weeks after last period"  
   surgical_cost: "$515 to $1075"
 
+Planned Parenthood Stapelton:
+  name: "Planned Parenthood, Stapleton"
+  note:
+  state: "CO"
+  address: "7155 E 38th Ave, Denver, CO"
+  url: "https://www.plannedparenthood.org/health-center/colorado/denver/80207/denver-stapleton-3543-90210"
+  phone: "303-321-2458"
+  medical: "Up to 10 weeks after last period"
+  medical_cost: "$465 to $525"
+  surgical: "5 to 20 weeks after last period"  
+  surgical_cost: "$515 to $1215"
+
+Planned Parenthood Steamboat:
+  name: "Planned Parenthood, Steamboat:"
+  note:
+  state: "CO"
+  address: "111 11th Street, Unit 102, Steamboat Springs, CO"
+  url: "https://www.plannedparenthood.org/health-center/colorado/steamboat-springs/80487/steamboat-springs-2168-90210"
+  phone: "970-879-2212"
+  medical: "Up to 9 weeks after last period"
+  medical_cost: "$465"
+
 Boulder Valley Health Center:
   name: "Boulder Valley Women's Health Center"
   note:
@@ -46,12 +68,103 @@ Boulder Valley Health Center:
 
 Boulder Abortion Clinic:
   name: "Boulder Abortion Clinic"
-  note: This provider specializes in late-term abortions. Earlier-term
-        abortions are generally less expensive at other clinics.
+  note: "This provider specializes in late-term abortions. Earlier-term
+         abortions are generally less expensive at other clinics."
   state: "CO"
   address: "1130 Alpine Avenue, Boulder, CO"
   url: "http://www.drhern.com/"
   phone: "303-447-1361"
   surgical: "20 to 26 weeks after last period"  
-  surgical_cost:
+  surgical_cost: "Call for Cost"
 
+Comprehensive Womens Health Center:
+  name: "Comprehensive Women’s Health Center"
+  note:
+  state: "CO"
+  address: "8111 E Lowery Blvd, Suite 250, Denver, CO"
+  url: "https://cwhccolorado.com/"
+  phone: "720-810-5442"
+  medical: "Up to 9 weeks after last period"  
+  medical_cost: "$450"
+  surgical: "6 to 21 weeks after last period"  
+  surgical_cost: "$322 to $2150"
+
+Healthy Futures For Women:
+  name: "Healthy Futures For Women"
+  note:
+  state: "CO"
+  address: "300 East Hampden Ave, Suite 201, Englewood, CO"
+  url: "http://www.healthyfuturesforwomen.com/"
+  phone: "303-991-7700"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "$390 to $450"
+  surgical: "5 to 20 weeks after last period"  
+  surgical_cost: "$375 to $2300"
+
+Planned Parenthood Montana:
+  name: "Planned Parenthood, Montana"
+  note:
+  state: "MT"
+  address: "100 West Wicks Lane, Billings, MT"
+  url: "https://www.plannedparenthood.org/health-center/montana/billings/59105/planned-parenthood-heights-2438-90790"
+  phone: "406-869-5040"
+  medical: "Up to 9 weeks after last period"  
+  medical_cost: "$799"
+  surgical: "5 to 21 weeks after last period"  
+  surgical_cost: "$1200 to $1400"
+
+Blue Mountain Clinic:
+  name: "Blue Mountain Clinic"
+  note:
+  state: "MT"
+  address: "610 N. California, Missoula, MT"
+  url: "http://www.bluemountainclinic.org/"
+  phone: "406-721-1646"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "Call for Cost"
+  surgical: "5 to 16 weeks after last period"  
+  surgical_cost: "Call for Cost"
+
+Planned Parenthood Salt Lake:
+  name: "Planned Parenthood, Salt Lake City"
+  note:
+  state: "UT"
+  address: "160 South 1000 East, Suite 120, Salt Lake City, UT"
+  url: "https://www.plannedparenthood.org/health-center/utah/salt-lake-city/84102/metro-health-center-3958-91730"
+  phone: "801-257-6789"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "Call for Cost"
+  surgical: "5 to 21 weeks after last period"  
+  surgical_cost: "Call for Cost"
+
+Wasatch Womens Center:
+  name: "Wasatch Women’s Center"
+  note:
+  state: "UT"
+  address: "715 E. 3900 S. #203, Salt Lake City, UT"
+  url: "http://www.wasatchwomenscenter.net/"
+  phone: "801-263-2111"
+  medical: "Up to 9 weeks after last period"  
+  medical_cost: "$450"
+  surgical: "6 to 14 weeks after last period"  
+  surgical_cost: "$450 to $550"
+
+Planned Parenthood Twin Falls:
+  name: "Planned Parenthood, Twin Falls"
+  note:
+  state: "ID"
+  address: "200 Second Ave N., Twin Falls, ID"
+  url: "https://www.plannedparenthood.org/health-center/idaho/twin-falls/83301/twin-falls-health-center-2938-91810"
+  phone: "800-769-0045"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "Call for Cost"
+
+Planned Parenthood Boise:
+  name: "Planned Parenthood, Boise"
+  note:
+  state: "ID"
+  address: "3668 N. Harbor Lane, Boise, ID"
+  url: "https://www.plannedparenthood.org/health-center/idaho/boise/83703/boise-health-center-2939-91810"
+  phone: "800-769-0045"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "Call for Cost"

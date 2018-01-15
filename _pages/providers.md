@@ -15,7 +15,7 @@ provide you with the specific information relevant to your needs._
 There are two primary methods of abortion provided in the Unites
 States:
 
-* **Medical Abortion (a.k.a. Abortion Pill):** This method of abortion
+* **Medical Abortion (a.k.a. The Abortion Pill):** This method of abortion
     uses a [course of
     medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
     to end a pregnancy. It is generally available during the first 10
@@ -26,35 +26,85 @@ States:
     a pregnancy. It is generally available through the second
     trimester of pregnancy.
 
-**If you are under 18**, a parent or guardian may need to be notified of
-your intent to receive an abortion and provide consent. Parental
-consent is NOT required under Montana law, but is required in Wyoming,
-Colorado, and Utah. To find out more about the specific requirements of
-the state where you will have the abortion and the judicial bypass
-option, contact the clinic where you plan to get your abortion.
+Cost varies by provider and length of pregnancy. In general, later
+term abortions are more expensive than earlier term
+abortions. Abortions involving IV sedation (some surgical procedures)
+or for women who are [Rh
+negative](https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy)
+may incur additional charges. **Women for Women can provide [financial
+assistance](/financial) to those who require it.**
+
+**If you are a minor**, a parent or guardian may need to be notified
+of your intent to receive an abortion and provide consent. Parental
+consent is currently required in Wyoming, Colorado, Montana, and
+Utah. To find out more about the specific requirements of the state
+where you will have the abortion and judicial bypass options, contact
+the clinic where you plan to get your abortion.
 
 ## Providers
 
-Below you will find information about abortion providers in Wyoming,
-Colorado, Utah, Montana, North Dakota, and Idaho. For states outside
-of Wyoming the list of providers is not comprehensive; we list those
-providers most relevant to Wyoming.
+Below you will find information about abortion providers in
+[Wyoming](#wyoming), [Colorado](#colorado), [Montana](#montana),
+[Utah](#utah), and [Idaho](#idaho). For states outside of Wyoming the
+list of providers is not comprehensive; we list only those providers
+most relevant to Wyoming.
 
-_**Please Note:** Clinics are listed alphabetically; we make no
-   recommendations. Prices are approximate and may change based on the
-   specifics of your needs._
+_**Please Note:** Clinics are listed alphabetically by location; we
+   make no recommendations as to which is best for you. Prices are
+   approximate and may change based on the specifics of your needs._
 
 ### Wyoming
 
-In Wyoming, parental consent required for patients under age 18.
-Contact clinics for more information.
+In Wyoming, parental consent required for patients under age 18.  A
+judge may excuse you from this requirement. Contact clinics for more
+information.
 
 {% include providers.html state='WY' %}
 
 ### Colorado
 
 In Colorado, parental consent or judicial bypass is required for
-patients under age 18. Colorado’s judicial bypass call center number
-is 303-321-7526. Contact clinics for more information.
+patients under age 18. Planned Parenthood [provides a
+hotline](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/planned-parenthood-parental-notification/judicial-bypass-faq)
+to assist minors in accessing judicial bypass information at
+1-866-277-2771. Contact clinics for more information.
 
 {% include providers.html state='CO' %}
+
+### Montana
+
+In Montana, parental consent is required for patients under age 16. A
+judge may excuse you from this requirement. Contact clinics for more
+information.
+
+{% include providers.html state='MT' %}
+
+### Utah
+
+In Utah, parental consent is required for patients under age 18. A
+judge may excuse you from this requirement. Contact clinics for more
+information.
+
+**Utah requires participating in a state-directed, in-person
+counseling session 72 hours before beginning an abortion procedure,
+often necessitating two trips to the provider.** Women able to access
+clinics in Jackson, WY, Colorado, or Montana should consider whether
+one of those clinics, where no such counseling (and extra trip) is
+required, is a better option.
+
+{% include providers.html state='UT' %}
+
+### Idaho
+
+In Idaho, parental consent is required for patients under age 18. A
+judge may excuse you from this requirement. Contact clinics for more
+information.
+
+**Idaho requires participating in a state-directed counseling session
+  24 hour before beginning an abortion procedure.** This may require
+  multiple trips to the provider. Women able to access clinics in
+  Jackson, WY, Colorado, or Montana should consider whether one of
+  those clinics, where no such counseling (and extra trip) is
+  required, is a better option.
+
+{% include providers.html state='ID' %}
