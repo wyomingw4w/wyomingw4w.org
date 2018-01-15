@@ -6,10 +6,10 @@ title: "Financial Assistance"
 
 If you are a Wyoming resident and are unable to afford an abortion,
 [Women for Women](/) is here to help you. We specifically help Wyoming
-women and, in some cases, women from Teton Valley, ID seeking services
-in Jackson, WY. If you are not a Wyoming resident, please contact the
-[National Network of Abortion Funds](https://abortionfunds.org/) for
-funding suggestions.
+women and, in some cases, women from the Victor/Driggs area of Idaho
+seeking services in Jackson, WY. If you are not a Wyoming resident,
+please contact the [National Network of Abortion
+Funds](https://abortionfunds.org/) for funding suggestions.
 
 We are happy to speak with you anytime to provide information about
 available abortion services, providers, and funding
