@@ -16,10 +16,10 @@ cost, they often incur substantial expenses for travel and time away
 from responsibilities. Many cannot come up with those funds in the
 short time before the procedure. One in four women in the US has an
 abortion [by the age of
-45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). Having
-an abortion is something many women decide is necessary and critical
-to their lives. WE TRUST WOMEN to be the best at making that decision
-for themselves.
+45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states).
+Having an abortion is something many women decide is necessary and
+critical to their lives. WE TRUST WOMEN to be the best at making that
+decision for themselves.
 
 ## Mission
 
