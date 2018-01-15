@@ -55,9 +55,10 @@ should be denied an abortion due to financial barriers.
 
 ## How can I donate to Women for Women?
 
-You may donate online via Paypal account or you can mail your donation
-to Women for Women, PO Box 1472, Lander, WY 82520. See our [About
-Us](/about) page for more information. Thanks for asking!
+You may donate online via [our Paypal account](/about/#donations) or
+you can mail your donation to Women for Women, PO Box 1472,
+Lander, WY 82520. See our [About Us](/about/#donations) page for more
+information. Thanks for asking!
 
 ## How will my donation be used?
 
