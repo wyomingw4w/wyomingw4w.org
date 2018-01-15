@@ -17,7 +17,9 @@
   </h4>
 
   {% if provider.note %}
-    <em>{{ provider.note}}</em>
+  <p>
+    <em>Note: {{ provider.note }}</em>
+  </p>
   {% endif %}
   
   <div class="providers_list">
@@ -36,7 +38,7 @@
       <li>
         <a href="{{ provider.url }}" itemprop="url">
           <i class="fa fa-fw fa-chain" aria-hidden="true"></i>
-          {{ provider.url }}
+          Visit {{ provider.name }} Website
         </a>
       </li>
       {% endif %}
@@ -50,7 +52,7 @@
 
       {% if provider.medical %}
       <li>
-        <i class="fa fa-fw fa-plus-square" aria-hidden="true"></i>
+        <i class="fa fa-fw fa-medkit" aria-hidden="true"></i>
         <strong>Medical:</strong>
         {{ provider.medical }}
         {% if provider.medical_cost %}
@@ -61,7 +63,7 @@
 
       {% if provider.surgical %}
       <li>
-        <i class="fa fa-fw fa-h-square" aria-hidden="true"></i>
+        <i class="fa fa-fw fa-user-md" aria-hidden="true"></i>
         <strong>Surgical:</strong>
         {{ provider.surgical }}
         {% if provider.surgical_cost %}

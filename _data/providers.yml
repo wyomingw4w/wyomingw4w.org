@@ -12,10 +12,46 @@ Emerg-A-Care:
   name: "Emerg-A-Care"
   note:
   state: "WY"
-  address: " 455 W Broadway, Jackson, Wyoming"
+  address: "455 W Broadway, Jackson, Wyoming"
   url: "http://emergacare.com/"
   phone: "307-733-8002"
   medical: "Up to 10 weeks after last period"  
   medical_cost: "$750"
   surgical: "5 to 12 weeks after last period"  
   surgical_cost: "$950"
+
+Planned Parenthood FtCo:
+  name: "Planned Parenthood, Ft. Collins"
+  note: "Abortions provided on Thursday, Friday, and Saturday"
+  state: "CO"
+  address: "825 South Shields St, Suite 4, Fort Collins, CO"
+  url: "https://www.plannedparenthood.org/health-center/colorado/fort-collins/80521/fort-collins-4087-90210"
+  phone: "970-493-0281"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "$465 to $525"
+  surgical: "5 to 18 weeks after last period"  
+  surgical_cost: "$515 to $1075"
+
+Boulder Valley Health Center:
+  name: "Boulder Valley Women's Health Center"
+  note:
+  state: "CO"
+  address: "2855 Valmont Rd, Boulder, CO"
+  url: "http://www.boulderwomenshealth.org/"
+  phone: "303-416-4112"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "$450"
+  surgical: "5 to 14 weeks after last period"  
+  surgical_cost: "$550"
+
+Boulder Abortion Clinic:
+  name: "Boulder Abortion Clinic"
+  note: This provider specializes in late-term abortions. Earlier-term
+        abortions are generally less expensive at other clinics.
+  state: "CO"
+  address: "1130 Alpine Avenue, Boulder, CO"
+  url: "http://www.drhern.com/"
+  phone: "303-447-1361"
+  surgical: "20 to 26 weeks after last period"  
+  surgical_cost:
+
