@@ -7,19 +7,19 @@ toc: true
 
 ## Overview
 
-Women for Women is a 501(c)(3) non-profit organization established to
-ensure Wyoming women can make and implement the critical personal
-decision whether to terminate a pregnancy. Wyoming residents must
-travel out of state or to the far western corner of Wyoming to access
-an abortion provider. Consequently, in addition to the procedure’s
-cost, they often incur substantial expenses for travel and time away
-from responsibilities. Many cannot come up with those funds in the
-short time before the procedure. One in four women in the US has an
-abortion [by the age of
+[Women for Women](/) is a 501(c)(3) non-profit organization
+established to ensure Wyoming women can make and implement the
+critical personal decision whether to terminate a pregnancy. Wyoming
+residents must travel out of state or to the far western corner of
+Wyoming to access an abortion provider. Consequently, in addition to
+the procedure’s cost, they often incur substantial expenses for travel
+and time away from responsibilities. Many cannot come up with those
+funds in the short time before the procedure. One in four women in the
+US has an abortion [by the age of
 45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states).
 Having an abortion is something many women decide is necessary and
-critical to their lives. WE TRUST WOMEN to be the best at making that
-decision for themselves.
+critical to their lives. **WE TRUST WOMEN** to be the best at making
+that decision for themselves.
 
 ## Mission
 

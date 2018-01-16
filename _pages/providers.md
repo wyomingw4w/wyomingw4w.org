@@ -5,15 +5,16 @@ title: "Regional Abortion Providers"
 toc: true
 ---
 
-_The information provided is approximate and subject to change. It is
+This page lists various abortion providers relevant to Wyoming women.
+The information provided here approximate and subject to change. It is
 intended to give you a starting point for your decision-making.
 Calling the clinics and discussing your personal situation will best
-provide you with the specific information relevant to your needs._
+provide you with the specific information relevant to your needs.
 
 ## General Information
 
-There are two primary methods of abortion provided in the Unites
-States:
+Providers generally provide one or both the the following
+[abortion](/abortion) methods:
 
 * **Medical Abortion (a.k.a. The Abortion Pill):** This method of abortion
     uses a [course of
@@ -25,13 +26,14 @@ States:
     a pregnancy. It is generally available through the second
     trimester of pregnancy.
 
-Cost varies by provider and length of pregnancy. In general, later
-term abortions are more expensive than earlier term
+Abortion costs vary by provider and length of pregnancy. In general,
+later term abortions are more expensive than earlier term abortions,
+and surgical abortions are more expensive than medical
 abortions. Abortions involving IV sedation (some surgical procedures)
 or for women who are [Rh
 negative](https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy)
-may incur additional charges. **Women for Women can provide [financial
-assistance](/financial) to those who require it.**
+may incur additional charges. **[Women for Women](/) can provide
+[financial assistance](/financial) to those who require it.**
 
 **If you are a minor**, a parent or guardian may need to be notified
 of your intent to receive an abortion and provide consent. Parental
@@ -46,7 +48,7 @@ Below you will find information about abortion providers in
 [Wyoming](#wyoming), [Colorado](#colorado), [Montana](#montana),
 [Utah](#utah), and [Idaho](#idaho). For states outside of Wyoming the
 list of providers is not comprehensive; we list only those providers
-most relevant to Wyoming.
+most relevant to Wyoming women.
 
 _**Please Note:** Clinics are listed alphabetically by location; we
    make no recommendations as to which is best for you. Prices are
