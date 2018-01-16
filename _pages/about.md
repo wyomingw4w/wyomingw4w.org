@@ -61,3 +61,12 @@ Women for Women
 P.O. Box 1472  
 Lander, WY 82520  
 {: .text-center}
+
+## Website
+
+The Women for Women website is built using
+[Jekyll](https://jekyllrb.com/) and [Minimal
+Mistakes](https://mmistakes.github.io/minimal-mistakes/). The [source
+code](https://github.com/wyomingw4w/wyomingw4w.org) is available on
+[GitHub](https://github.com/wyomingw4w). Pull requests and suggestions
+are welcome.

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 layout: single
-title: "Resources and Links"
+title: "Resources and Journalism"
 toc: true
 ---
 
@@ -11,7 +11,7 @@ abortion. [Women for Women](/) is not generally affiliated with the
 links on this page, but provides them as potentially useful to other
 Wyoming women.
 
-## Other Resources
+## Abortion Resources
 
 ### Wyoming Abortion Fund
 
@@ -103,7 +103,7 @@ reproductive health and sexuality. They publish the well-known
 manual](https://www.ourbodiesourselves.org/publications/our-bodies-ourselves-2011/)
 of the same name.
 
-## News and Articles
+## Journalism and News
 
 * [The Abortion Ministry of Dr. Willie
   Parker](http://www.esquire.com/news-politics/a23771/abortion-ministry-of-dr-willie-parker-0914/):
