@@ -36,9 +36,9 @@ more information.
 
 ## Must I be a US citizen to receive assistance?
 
-No. We do not ask about your country of citizenship. You must be a
-resident of Wyoming, or live in the Victor/Driggs area of Idaho, to
-have your abortion at a Wyoming clinic.
+No. We do not ask about your country of citizenship. In order to
+receive financial assistance from Women for Women, you must only be a
+resident of Wyoming, or live in the Victor/Driggs area of Idaho.
 
 ## Can I receive funds if I don’t live in Wyoming?
 
