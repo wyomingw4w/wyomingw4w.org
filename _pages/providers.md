@@ -50,9 +50,10 @@ Below you will find information about abortion providers in
 list of providers is not comprehensive; we list only those providers
 most relevant to Wyoming women.
 
-_**Please Note:** Clinics are listed alphabetically by location; we
-   make no recommendations as to which is best for you. Prices are
-   approximate and may change based on the specifics of your needs._
+_**Please Note:** We make no recommendations as to which is best for
+   you, but list the ones that are less expensive or closer to Wyoming
+   first. Prices are approximate and may change based on the specifics
+   of your needs._
 
 ### Wyoming
 

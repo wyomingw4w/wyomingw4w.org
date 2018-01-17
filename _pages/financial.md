@@ -57,11 +57,10 @@ Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patie
 at 866-372-7526.** The Wyoming Abortion Fund is a separate fund
 managed by Planned Parenthood, and like Women for Women, is
 specifically intended to help Wyoming residents afford an
-abortion. You are welcome to call them before or after calling us. The
-Wyoming Abortion Fund is open on Monday, Tuesday, and Friday. If you
-don't get through to a person, leave a message asking for assistance,
-and they will call you back. It is not unusual for a woman to receive
-funding from both funds if necessary.
+abortion. You are welcome to call them before or after calling us. If
+you don't get through to a person, leave a message asking for
+assistance, and they will call you back. It is not unusual for a woman
+to receive funding from both funds if necessary.
 
 **When we provide assistance** we notify the clinic and pay them
 directly on your behalf.

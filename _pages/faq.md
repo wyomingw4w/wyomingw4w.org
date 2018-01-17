@@ -36,16 +36,16 @@ more information.
 
 ## Must I be a US citizen to receive assistance?
 
-No. We do not ask about your country of citizenship. In order to
-receive [financial assistance](/financial) from Women for Women, you
-must only be a resident of Wyoming, or live in the Victor/Driggs area
-of Idaho.
+No. We do not ask about your country of citizenship. Anyone who lives
+in Wyoming is eligible for [financial assistance](/financial). You may
+also be eligible if you live in eastern Idaho and are going to one of
+the two [Jackson, WY clinics](/providers/#wyoming).
 
 ## Can I receive funds if I don’t live in Wyoming?
 
-Unfortunately, no, unless you live in the Victor/Driggs are of Idaho
-and are seeking services in Jackson, WY. If you are not a Wyoming
-resident, please contact the [National Network of Abortion
+Unfortunately, no, unless you live in eastern Idaho and are seeking
+services in [Jackson, WY](/providers/#wyoming). If you are not a
+Wyoming resident, please contact the [National Network of Abortion
 Funds](https://abortionfunds.org/) for funding suggestions.
 
 ## Where does Women for Women get its funding?

@@ -4,9 +4,7 @@
   {% assign providers = site.data.providers %}
 {% endif %}
 
-{% assign sorted_providers = providers | sort: 'name' %}
-
-{% for provider in sorted_providers %}
+{% for provider in providers %}
 
   <h4 class="providers_header">
     {% if provider.url %}

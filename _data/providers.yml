@@ -32,6 +32,18 @@ Planned Parenthood FtCo:
   surgical: "5 to 18 weeks after last period"  
   surgical_cost: "$515 to $1075"
 
+Healthy Futures For Women:
+  name: "Healthy Futures For Women"
+  note:
+  state: "CO"
+  address: "300 East Hampden Ave, Suite 201, Englewood, CO"
+  url: "http://www.healthyfuturesforwomen.com/"
+  phone: "303-991-7700"
+  medical: "Up to 10 weeks after last period"  
+  medical_cost: "$390 to $450"
+  surgical: "5 to 20 weeks after last period"  
+  surgical_cost: "$375 to $2300"
+
 Planned Parenthood Stapelton:
   name: "Planned Parenthood, Stapleton"
   note:
@@ -66,17 +78,6 @@ Boulder Valley Health Center:
   surgical: "5 to 14 weeks after last period"  
   surgical_cost: "$550"
 
-Boulder Abortion Clinic:
-  name: "Boulder Abortion Clinic"
-  note: "This provider specializes in late-term abortions. Earlier-term
-         abortions are generally less expensive at other clinics."
-  state: "CO"
-  address: "1130 Alpine Avenue, Boulder, CO"
-  url: "http://www.drhern.com/"
-  phone: "303-447-1361"
-  surgical: "20 to 26 weeks after last period"  
-  surgical_cost: "Call for Cost"
-
 Comprehensive Womens Health Center:
   name: "Comprehensive Women’s Health Center"
   note:
@@ -89,20 +90,19 @@ Comprehensive Womens Health Center:
   surgical: "6 to 21 weeks after last period"  
   surgical_cost: "$322 to $2150"
 
-Healthy Futures For Women:
-  name: "Healthy Futures For Women"
-  note:
+Boulder Abortion Clinic:
+  name: "Boulder Abortion Clinic"
+  note: "This provider specializes in late-term abortions. Earlier-term
+         abortions are generally less expensive at other clinics."
   state: "CO"
-  address: "300 East Hampden Ave, Suite 201, Englewood, CO"
-  url: "http://www.healthyfuturesforwomen.com/"
-  phone: "303-991-7700"
-  medical: "Up to 10 weeks after last period"  
-  medical_cost: "$390 to $450"
-  surgical: "5 to 20 weeks after last period"  
-  surgical_cost: "$375 to $2300"
+  address: "1130 Alpine Avenue, Boulder, CO"
+  url: "http://www.drhern.com/"
+  phone: "303-447-1361"
+  surgical: "20 to 26 weeks after last period"  
+  surgical_cost: "Call for Cost"
 
-Planned Parenthood Montana:
-  name: "Planned Parenthood, Montana"
+Planned Parenthood Billings:
+  name: "Planned Parenthood, Billings"
   note:
   state: "MT"
   address: "100 West Wicks Lane, Billings, MT"
@@ -115,7 +115,9 @@ Planned Parenthood Montana:
 
 Blue Mountain Clinic:
   name: "Blue Mountain Clinic"
-  note:
+  note: "Mainly an option for early second trimester abortions for
+         Teton County area women wishing to avoid the two-trip issue of going
+         to a Salt Lake City, UT provider."
   state: "MT"
   address: "610 N. California, Missoula, MT"
   url: "http://www.bluemountainclinic.org/"
