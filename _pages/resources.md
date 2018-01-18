@@ -15,7 +15,7 @@ Wyoming women.
 
 ### Wyoming Abortion Fund
 
-Like [Women for Women](/), the [Wyoming Abortion
+Like Women for Women, the [Wyoming Abortion
 Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patient-resources/wyoming-abortion-fund)
 assists Wyoming women in funding abortions. If you live in Wyoming and
 need help paying for an abortion, the Wyoming Abortion Fund may be
@@ -26,7 +26,7 @@ be a Planned Parenthood health center.
 
 ### Exhale
 
-[Exhale](https://exhaleprovoice.org/) provides after-apportion support
+[Exhale](https://exhaleprovoice.org/) provides after-abortion support
 via a talk-line at **866-4-EXHALE**. They aim to create a social
 climate where each person’s unique experience with abortion is
 supported, respected, and free from stigma. Exhale provides services,
@@ -55,9 +55,9 @@ consider becoming a member of NARAL Pro-choice Wyoming.
 ### National Network of Abortion Funds
 
 The [National Network of Abortion Funds](https://abortionfunds.org/)
-(NNAF) is the "hub" of individual abortion funds such as [Women for
-Women](/), creating opportunities for funds to share their work, to
-learn from each other, and to support each other, wherever they were
+(NNAF) is the "hub" of individual abortion funds such as Women for
+Women, creating opportunities for funds to share their work, to learn
+from each other, and to support each other, wherever they were
 located. NNAF includes nearly 100 abortion funds in the United States,
 Mexico, Canada, and the United Kingdom. The Network also includes one
 international Internet-based abortion fund that helps women who live
@@ -110,7 +110,7 @@ of the same name.
   An insightful profile of Alabama born, Baptist raised, Harvard
   educated doctor who today travels a circuit of southern states to
   provide abortion care.
-* [What It's Really Like yo Have an
+* [What It's Really Like to Have an
   Abortion](http://www.cosmopolitan.com/sex-love/news/a31727/what-its-really-like-to-have-an-abortion/):
   Five women answer questions about their experiences.
 * [How Three Fierce Justices Took Control of the Supreme

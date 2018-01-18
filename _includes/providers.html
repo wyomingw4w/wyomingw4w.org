@@ -7,8 +7,8 @@
 {% for provider in providers %}
 
   <h4 class="providers_header">
-    {% if provider.url %}
-      <a href="{{ provider.url }}">{{ provider.name }}</a>
+    {% if include.color %}
+      <span style="color: {{ include.color }}">{{ provider.name }}</span>
     {% else %}
       {{ provider.name }}
     {% endif %}

@@ -28,7 +28,7 @@ Utah, and Idaho that are most relevant to Wyoming residents.
 
 ## What if I cannot afford an abortion?
 
-[Women for Women](/) will work with you to help find funding for your
+Women for Women will work with you to help find funding for your
 abortion. In addition to our funds, we can direct you to additional
 funding sources and counsel you on additional ways to pay for your
 abortion. Please see our [Financial Assistance](/financial) page for
@@ -82,7 +82,7 @@ deductible. See
 for more info.
 
 If you don't have insurance, find your nearest [Wyoming Title X
-clinic](http://www.wyhc.org/wyoming-clinics/). THese clinics provide
+clinic](http://www.wyhc.org/wyoming-clinics/). These clinics provide
 affordable birth control options on a sliding scale based on your
 income. They will not deny anyone services because they are unable to
 pay. Teenagers do not need parental permission to receive birth control

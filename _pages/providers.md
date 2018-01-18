@@ -20,11 +20,13 @@ Providers generally provide one or both the the following
     uses a [course of
     medication](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
     to end a pregnancy. It is generally available during the first 10
-    weeks pregnancy.
+    weeks pregnancy (up to 10 weeks after the first day of your
+    last period).
 * **Surgical Abortion:** This method of abortion involves a doctor
     [surgically ending](https://www.plannedparenthood.org/learn/abortion/in-clinic-abortion-procedures)
     a pregnancy. It is generally available through the second
-    trimester of pregnancy.
+    trimester of pregnancy (up to 21 weeks after the first day of your
+    last period).
 
 Abortion costs vary by provider and length of pregnancy. In general,
 later term abortions are more expensive than earlier term abortions,
@@ -55,15 +57,15 @@ _**Please Note:** We make no recommendations as to which is best for
    first. Prices are approximate and may change based on the specifics
    of your needs._
 
-### Wyoming
+### <span style="color: #A569BD">Wyoming</span>
 
 In Wyoming, parental consent required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more
 information.
 
-{% include providers.html state='WY' %}
+{% include providers.html state='WY' color='#A569BD' %}
 
-### Colorado
+### <span style="color: #45B39D">Colorado</span>
 
 In Colorado, parental consent or judicial bypass is required for
 patients under age 18. Planned Parenthood [provides a
@@ -71,17 +73,17 @@ hotline](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/pl
 to assist minors in accessing judicial bypass information at
 1-866-277-2771. Contact clinics for more information.
 
-{% include providers.html state='CO' %}
+{% include providers.html state='CO' color='#45B39D' %}
 
-### Montana
+### <span style="color: #F5B041">Montana</span>
 
 In Montana, parental consent is required for patients under age 16. A
 judge may excuse you from this requirement. Contact clinics for more
 information.
 
-{% include providers.html state='MT' %}
+{% include providers.html state='MT' color='#F5B041' %}
 
-### Utah
+### <span style="color: #DC7633">Utah</span>
 
 In Utah, parental consent is required for patients under age 18. A
 judge may excuse you from this requirement. Contact clinics for more
@@ -94,9 +96,9 @@ clinics in Jackson, WY, Colorado, or Montana should consider whether
 one of those clinics, where no such counseling (and extra trip) is
 required, is a better option.
 
-{% include providers.html state='UT' %}
+{% include providers.html state='UT' color='#DC7633' %}
 
-### Idaho
+### <span style="color: #CD6155">Idaho</span>
 
 In Idaho, parental consent is required for patients under age 18. A
 judge may excuse you from this requirement. Contact clinics for more
@@ -109,4 +111,4 @@ information.
   those clinics, where no such counseling (and extra trip) is
   required, is a better option.
 
-{% include providers.html state='ID' %}
+{% include providers.html state='ID' color='#CD6155' %}

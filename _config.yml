@@ -7,14 +7,15 @@
 
 # Theme
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default"
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "Women for Women"
 title_separator          : "-"
 name                     : "Women for Women"
-description              : "Helping Make Reproductive Rights a Reality for Wyoming Women"
+description              : "Supporting Reproductive Rights for Wyoming Women"
 url                      : "https://test.wyomingw4w.org"
 baseurl                  : # "/"
 repository               : "wyomingw4w/wyomingw4w.org"
@@ -26,23 +27,23 @@ atom_feed:
 search                   : # true, false (default)
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+# google_site_verification :
+# bing_site_verification   :
+# yandex_site_verification :
+# naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               : wyomingwomenforwomen
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links                  : # An array of links to social media profiles
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 : # Open Graph/Twitter default site image
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links                  : # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -54,9 +55,9 @@ analytics:
 # Site Author
 author:
   name             : "Wyoming W4W"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ensuring Wyoming women are able to access abortion services"
-  location         : "PO Box 1472, Lander, WY 82520"
+  avatar           : # path of avatar image
+  bio              : "Supporting reproductive rights for Wyoming women"
+  location         : "PO Box 1472, Lander"
   phone            : "307-438-9272"
   email            :
   uri              :
@@ -151,8 +152,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: # amount of posts to show
+#paginate_path:
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -229,4 +230,3 @@ defaults:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
-    

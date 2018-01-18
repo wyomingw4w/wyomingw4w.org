@@ -26,7 +26,7 @@ cost. Discuss your financial situation with the clinic, and ask them
 whether they have any means to reduce the price or know of other
 sources of support. _(Some clinics have their own funds to help reduce
 costs.)_
-4. **Call [Women for Women](/) at {{ site.author.phone }}**.
+4. **Call Women for Women at {{ site.author.phone }}**.
 
 **When you call**, one of our volunteers will ask you a few questions,
 including about your income, health insurance, family support,
