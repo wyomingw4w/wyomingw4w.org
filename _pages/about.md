@@ -5,6 +5,9 @@ title: "About Women for Women"
 toc: true
 ---
 
+Women for Women was established in 1998 and has been supporting
+Wyoming women ever since.
+
 ## Overview
 
 [Women for Women](/) is a 501(c)(3) non-profit organization
@@ -62,6 +65,12 @@ P.O. Box 1472
 Lander, WY 82520  
 {: .text-center}
 
+Women for Women is recognized by the IRS as a 501(c)(3) non-profit
+organization, EIN 83-0322262. Our exemption derives from a group
+exemption granted to the National Network of Abortion Funds of which
+we are an affiliate. Donations are deductible to the extent allowed by
+law.
+
 ## Website
 
 The Women for Women website is built using
@@ -70,3 +79,7 @@ Mistakes](https://mmistakes.github.io/minimal-mistakes/). The [source
 code](https://github.com/wyomingw4w/wyomingw4w.org) is available on
 [GitHub](https://github.com/wyomingw4w). Pull requests and suggestions
 are welcome.
+
+The website is hosted via [Digital
+Ocean](https://m.do.co/c/3dc8d28d8a47). Our HTTPS certificate is
+provided for free via [Lets Encrypt](https://letsencrypt.org/).
