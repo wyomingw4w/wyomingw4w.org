@@ -1,13 +1,13 @@
 ---
 permalink: /
 layout: single
-title: "Reproductive Rights for Wyoming Women"
+title: "Reproductive Rights for Wyomingites"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/scotus-splash.jpg
-excerpt: "A 501(c)(3) non-profit established to ensure that Wyoming
-          women are able to implement their choice to terminate a
+excerpt: "A 501(c)(3) non-profit established to ensure that all Wyoming
+          residents are able to implement their choice to terminate a
           pregnancy."
 ---
 
@@ -16,7 +16,7 @@ providers](/providers) most relevant to Wyoming residents. We also
 offer [financial assistance](/financial) to those who would otherwise
 not be able to afford an [abortion](/abortion). Reproductive justice
 demands that reproductive health care and the right to
-self-determination be available to all women, not just those with
+self-determination be available to all, not just those with
 financial resources.
 
 If you have any questions, are ready to ask for assistance (ideally,
