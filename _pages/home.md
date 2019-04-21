@@ -12,7 +12,7 @@ excerpt: "A 501(c)(3) non-profit established to ensure that all Wyoming
 ---
 
 Women for Women provides information about [abortion
-providers](/providers) most relevant to Wyoming residents. We also
+providers](/providers) relevant to Wyoming residents. We also
 offer [financial assistance](/financial) to those who would otherwise
 not be able to afford an [abortion](/abortion). Reproductive justice
 demands that reproductive health care and the right to
