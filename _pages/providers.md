@@ -13,7 +13,7 @@ provide you with the specific information relevant to your needs.
 
 ## General Information
 
-Providers generally provide one or both the the following
+Providers generally provide one or both of the following
 [abortion](/abortion) methods:
 
 * **Medical Abortion (a.k.a. The Abortion Pill):** This method of abortion
@@ -41,7 +41,7 @@ may incur additional charges. **[Women for Women](/) can provide
 of your intent to receive an abortion and provide consent. Parental
 consent is currently required in Wyoming, Colorado, Montana, and
 Utah. To find out more about the specific requirements of the state
-where you will have the abortion and judicial bypass options, contact
+where you will have the abortion and that state's judicial bypass options, contact
 the clinic where you plan to get your abortion.
 
 ## Providers
@@ -59,7 +59,7 @@ _**Please Note:** We make no recommendations as to which is best for
 
 ### <span style="color: #A569BD">Wyoming</span>
 
-In Wyoming, parental consent required for patients under age 18.  A
+In Wyoming, parental consent is required for patients under age 18.  A
 judge may excuse you from this requirement. Contact clinics for more
 information.
 
