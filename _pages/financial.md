@@ -4,10 +4,8 @@ layout: single
 title: "Financial Assistance"
 ---
 
-If you are a Wyoming resident and are unable to afford an abortion,
-[Women for Women](/) is here to help you. We specifically help Wyoming
-women and, in some cases, women from the Victor/Driggs area of Idaho
-seeking services in Jackson, WY. If you are not a Wyoming resident,
+If you are a Wyoming or eastern Idaho resident and are unable to afford an abortion,
+[Women for Women](/) is here to help you. If you reside elsewhere,
 please contact the [National Network of Abortion
 Funds](https://abortionfunds.org/) for funding suggestions.
 
@@ -29,7 +27,7 @@ costs.)_
 4. **Call Women for Women at {{ site.author.phone }}**.
 
 **When you call**, one of our volunteers will ask you a few questions,
-including about your income, health insurance, family support,
+which may include questions about your income, family support,
 children, and extenuating circumstances. We will also need to know:
 
 * Which clinic you are planning to use.
@@ -38,11 +36,11 @@ children, and extenuating circumstances. We will also need to know:
 
 _Please note that our resources are limited, and our mission is to
 provide funding to those who would not otherwise be able to pay for an
-abortion. If we are able to help you, it will likely only be for a
-portion of the full amount. We will do our best to help you so that
-you are able to follow through with your decision. Prior to calling,
-please consider how much you will be able to contribute and what other
-funding resources are available._
+abortion. Prior to calling, please consider how much you will be able 
+to contribute and what other funding resources are available. If we 
+are able to help you, it will likely only be for a portion of the full 
+amount. We will do our best to help you so that you are able to follow 
+through with your decision. _
 
 **If we do not answer, please leave a message** with your name and
 number and the date and time of your appointment. Please be aware that
@@ -55,12 +53,10 @@ hours.
 [Wyoming Abortion
 Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patient-resources/wyoming-abortion-fund)
 at 866-372-7526.** The Wyoming Abortion Fund is a separate fund
-managed by Planned Parenthood, and like Women for Women, is
-specifically intended to help Wyoming residents afford an
-abortion. You are welcome to call them before or after calling us. If
-you don't get through to a person, leave a message asking for
-assistance, and they will call you back. It is not unusual for a woman
-to receive funding from both funds if necessary.
+managed by Planned Parenthood. It is specifically intended to help 
+Wyoming residents afford an abortion. You are welcome to call them 
+before or after calling us.  It is not unusual for a woman
+to receive funding from both funds, as needed.
 
 **When we provide assistance** we notify the clinic and pay them
 directly on your behalf.
