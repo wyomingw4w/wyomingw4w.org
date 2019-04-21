@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Reproductive Rights for Wyomingites"
+title: "Justice and Compassion Through Abortion Access"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
