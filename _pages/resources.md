@@ -17,7 +17,7 @@ Wyoming women.
 
 Like Women for Women, the [Wyoming Abortion
 Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patient-resources/wyoming-abortion-fund)
-assists Wyoming women in funding abortions. If you live in Wyoming and
+assists Wyoming residents in funding abortions. If you live in Wyoming and
 need help paying for an abortion, the Wyoming Abortion Fund may be
 able to help you. Call their toll-free hotline, **(866) 372-7526**, to
 see if you qualify. Although this fund is administered by Planned
@@ -33,7 +33,7 @@ supported, respected, and free from stigma. Exhale provides services,
 training, and education to empower individuals, families, and
 communities to achieve post-abortion health and well-being.
 
-### NARAL Pro-Choice America and Pro-Choice Wyoming
+### NARAL Pro-Choice America and NARAL Pro-Choice Wyoming
 
 [NARAL Pro-Choice America](https://www.prochoiceamerica.org/) was
 established in 1969 as the National Association for the Repeal of
@@ -47,10 +47,10 @@ ideas that threaten women's privacy.
 
 NARAL's Wyoming affiliate is [NARAL Pro-Choice
 Wyoming](https://www.prochoicewyoming.org/). NARAL Pro-Choice Wyoming
-provides critical watch-dogging and lobbying in the Wyoming's
+provides critical watch-dogging and lobbying in Wyoming's
 legislature and throughout the state. **If you want to stay informed
 on pending issues or support pro-choice lobbying in Wyoming**,
-consider becoming a member of NARAL Pro-choice Wyoming.
+please consider becoming a member of NARAL Pro-choice Wyoming.
 
 ### National Network of Abortion Funds
 
@@ -74,14 +74,12 @@ care. **Women for Women is a proud NNAF affiliate.**
 
 For nearly 100 years, [Planned
 Parenthood](https://www.plannedparenthood.org/) has promoted a
-commonsense approach to women's health and well-being, based on
+commonsense approach to reproductive health and well-being, based on
 respect for each individual’s right to make informed, independent
 decisions about health, sex, and family planning. Planned Parenthood
 is dedicated to offering men, women, and teens high-quality,
-affordable medical care. One in five American women has chosen Planned
-Parenthood for health care at least once in her life. The nearest
-abortion clinic for numerous Wyoming women is a Planned Parenthood
-clinic.
+affordable medical care. The nearest abortion clinic for many Wyoming 
+residents is a Planned Parenthood clinic.
 
 ### Guttmacher Institute
 
