@@ -13,10 +13,10 @@ itself](/about).
 
 Abortion is common. One in four women in the US has an abortion [by
 the age of
-45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). Women
-have abortions for many valid reasons including their health, their
+45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). People
+have abortions for many valid reasons, including their health, their
 finances, their age, their career goals, their family situation, and
-numerous more. Please see our [About Abortion](/abortion) page for
+numerous more reasons. Please see our [About Abortion](/abortion) page for
 more information.
 
 ## Where can I get an abortion?
@@ -29,23 +29,23 @@ Utah, and Idaho that are most relevant to Wyoming residents.
 ## What if I cannot afford an abortion?
 
 Women for Women will work with you to help find funding for your
-abortion. In addition to our funds, we can direct you to additional
-funding sources and counsel you on additional ways to pay for your
+abortion. In addition to our fund, we can direct you to other
+funding sources and suggest additional ways to pay for your
 abortion. Please see our [Financial Assistance](/financial) page for
 more information.
 
 ## Must I be a US citizen to receive assistance?
 
-No. We do not ask about your country of citizenship. Anyone who lives
-in Wyoming is eligible for [financial assistance](/financial). You may
-also be eligible if you live in eastern Idaho and are going to one of
+No. We do not ask about your country of citizenship or immigration status. 
+Anyone who lives in Wyoming is eligible for [financial assistance](/financial). 
+You may also be eligible if you live in eastern Idaho and are going to one of
 the two [Jackson, WY clinics](/providers/#wyoming).
 
 ## Can I receive funds if I don’t live in Wyoming?
 
 Unfortunately, no, unless you live in eastern Idaho and are seeking
-services in [Jackson, WY](/providers/#wyoming). If you are not a
-Wyoming resident, please contact the [National Network of Abortion
+services in [Jackson, WY](/providers/#wyoming). If you live elsewhere,
+please contact the [National Network of Abortion
 Funds](https://abortionfunds.org/) for funding suggestions.
 
 ## Where does Women for Women get its funding?
@@ -65,14 +65,14 @@ information. Thanks for asking!
 
 Women for Women is all-volunteer. That means all donated funds,
 excepting negligible amounts for stamps, P.O. Box fees, etc., go
-entirely to help women pay for the cost of the abortion. See our
+entirely to help people pay for the cost of the abortion. See our
 [About Us](/about) page for more information.
 
 ## Where can I get affordable birth control?
 
 If you have health insurance, ask your insurer about coverage. All
 Affordable Care Act (a.k.a. Obamacare) compliant plans must cover
-contraceptive methods and counseling for all women. These plans must
+contraceptive methods and counseling. These plans must
 cover [birth control
 services](https://www.plannedparenthood.org/learn/birth-control)
 without charging a co-payment or co-insurance when they’re provided by
