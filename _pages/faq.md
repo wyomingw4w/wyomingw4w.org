@@ -16,7 +16,7 @@ the age of
 45](https://www.guttmacher.org/fact-sheet/induced-abortion-united-states). People
 have abortions for many valid reasons, including their health, their
 finances, their age, their career goals, their family situation, and
-numerous more reasons. Please see our [About Abortion](/abortion) page for
+other reasons. Please see our [About Abortion](/abortion) page for
 more information.
 
 ## Where can I get an abortion?
