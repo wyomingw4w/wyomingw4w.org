@@ -5,7 +5,7 @@ title: "Regional Abortion Providers"
 toc: true
 ---
 
-This page lists various abortion providers relevant to Wyoming women.
+This page lists various abortion providers relevant to Wyoming and eastern Idaho residents.
 The information provided here is approximate and subject to change. It is
 intended to give you a starting point for your decision-making.
 Calling the clinics and discussing your personal situation will best
@@ -50,7 +50,7 @@ Below you will find information about abortion providers in
 [Wyoming](#wyoming), [Colorado](#colorado), [Montana](#montana),
 [Utah](#utah), and [Idaho](#idaho). For states outside of Wyoming, the
 list of providers is not comprehensive; we list only those providers
-most relevant to Wyoming women.
+most relevant to Wyoming residents.
 
 _**Please Note:** We make no recommendations as to which is best for
    you, but list the ones that are less expensive or closer to Wyoming
@@ -92,8 +92,8 @@ information.
 **Utah requires participating in a state-directed, in-person
 counseling session 72 hours before beginning an abortion procedure,
 often necessitating two trips to the provider. However, you MAY be able 
-to satisfy this requirement with a phone session. Be sure to ask.** 
-Women able to access clinics in Jackson, WY, Colorado, or Montana should 
+to satisfy this requirement with a telehealth (phone) session. Be sure to ask.** 
+Those able to access clinics in Jackson, WY, Colorado, or Montana should 
 consider whether one of those clinics, where no such counseling 
 (and extra trip) is required, is a better option.
 
@@ -107,9 +107,9 @@ information.
 
 **Idaho requires participating in a state-directed counseling session
   24 hours before beginning an abortion procedure.** This may require
-  multiple trips to the provider. Women able to access clinics in
-  Jackson, WY, Colorado, or Montana should consider whether one of
+  multiple trips to the provider. If you are able to access clinics in
+  Jackson, WY, Colorado, or Montana, consider whether one of
   those clinics, where no such counseling (and extra trip) is
-  required, is a better option.
+  required, is a better option for you.
 
 {% include providers.html state='ID' color='#CD6155' %}
