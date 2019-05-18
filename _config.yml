@@ -12,11 +12,11 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en"
-title                    : "Women for Women"
+title                    : "Chelsea's Fund"
 title_separator          : "-"
-name                     : "Women for Women"
+name                     : "Chelsea's Fund"
 description              : "Supporting Reproductive Rights for Wyoming Women"
-url                      : "https://www.wyomingw4w.org"
+url                      : "https://www.chelseasfund.org"
 baseurl                  : # "/"
 repository               : "wyomingw4w/wyomingw4w.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -54,7 +54,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wyoming W4W"
+  name             : "Chelsea's Fund"
   avatar           : # path of avatar image
   bio              : "Supporting reproductive rights for Wyoming women"
   location         : "PO Box 1472, Lander"
@@ -66,7 +66,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : wyomingwomenforwomen
+  facebook         : chelseasfundwyoming
   foursquare       :
   github           :
   gitlab           :
