@@ -34,7 +34,7 @@ Updating
    5. `rbenv rehash`
 2. Update bundler: `bundle update --bundler`
 3. Update main gems
-   1. Lookup versions at https://rubygems.org/gems/lookup/
+   1. Lookup versions at https://rubygems.org/gems/
    2. Update each version in `Gemfile`
    3. `bundle install`
 4. Update gem deps: `bundle update`
