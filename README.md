@@ -24,6 +24,23 @@ Setup
 3. `$ gem install bundler`
 4. `$ bundle install`
 
+Updating
+--------
+1. Update ruby:
+   1. `rbenv install --list`
+   2. Choose latest stable version
+   3. Update `.ruby-version`
+   4. `rbenv install`
+   5. `rbenv rehash`
+2. Update bundler: `bundle update --bundler`
+3. Update main gems
+   1. Lookup versions at https://rubygems.org/gems/lookup/
+   2. Update each version in `Gemfile`
+   3. `bundle install`
+4. Update gem deps: `bundle update`
+5. Test
+6. Commit
+
 Testing
 -------
 
