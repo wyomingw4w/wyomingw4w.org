@@ -26,7 +26,7 @@
       {% if provider.address %}
       <li>
         <a href="https://www.google.com/maps/search/{{ provider.address }}" itemprop="url">
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          <i class="fas fa-fw fa-map-marker" aria-hidden="true"></i>
           {{ provider.address }}
         </a>
       </li>
@@ -35,7 +35,7 @@
       {% if provider.url %}
       <li>
         <a href="{{ provider.url }}" itemprop="url">
-          <i class="fa fa-fw fa-chain" aria-hidden="true"></i>
+          <i class="fas fa-fw fa-link" aria-hidden="true"></i>
           Visit {{ provider.name }} Website
         </a>
       </li>
@@ -43,14 +43,14 @@
 
       {% if provider.phone %}
       <li>
-        <i class="fa fa-fw fa-phone-square" aria-hidden="true"></i>
+        <i class="fas fa-fw fa-phone-square" aria-hidden="true"></i>
         {{ provider.phone }}
       </li>
       {% endif %}
 
       {% if provider.medical %}
       <li>
-        <i class="fa fa-fw fa-medkit" aria-hidden="true"></i>
+        <i class="fas fa-fw fa-medkit" aria-hidden="true"></i>
         <strong>Medical:</strong>
         {{ provider.medical }}
         {% if provider.medical_cost %}
@@ -61,7 +61,7 @@
 
       {% if provider.surgical %}
       <li>
-        <i class="fa fa-fw fa-user-md" aria-hidden="true"></i>
+        <i class="fas fa-fw fa-user-md" aria-hidden="true"></i>
         <strong>Surgical:</strong>
         {{ provider.surgical }}
         {% if provider.surgical_cost %}
