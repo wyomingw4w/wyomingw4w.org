@@ -11,7 +11,7 @@ the US has an abortion [by the age of
 provide some basic information on abortion below. [Your
 provider](/providers) can provide additional details on abortion and
 can assist in answering any question you may have prior to your
-procedure. [Women for Women](/) can provide [financial
+procedure. [Chelsea's Funds](/) can provide [financial
 assistance](/financial) to Wyoming residents seeking an abortion.
 
 ## General Information

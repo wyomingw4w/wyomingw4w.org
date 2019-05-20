@@ -5,7 +5,7 @@ title: "Frequently Asked Questions"
 toc: true
 ---
 
-This page answers questions frequently asked of [Women for Women](/)
+This page answers questions frequently asked of [Chelsea's Fund](/)
 regarding both [abortion](/abortion) and [the organization
 itself](/about).
 
@@ -28,7 +28,7 @@ Utah, and Idaho that are most relevant to Wyoming residents.
 
 ## What if I cannot afford an abortion?
 
-Women for Women will work with you to help find funding for your
+Chelsea's Fund will work with you to help find funding for your
 abortion. In addition to our fund, we can direct you to other
 funding sources and suggest additional ways to pay for your
 abortion. Please see our [Financial Assistance](/financial) page for
@@ -48,22 +48,22 @@ services in [Jackson, WY](/providers/#wyoming). If you live elsewhere,
 please contact the [National Network of Abortion
 Funds](https://abortionfunds.org/) for funding suggestions.
 
-## Where does Women for Women get its funding?
+## Where does Chelsea's Fund get its funding?
 
-Women for Women is funded by generous private donors who believe
+Chelsea's Fund is funded by generous private donors who believe
 everyone has a right to personal reproductive decisions and no one
 should be denied an abortion due to financial barriers.
 
-## How can I donate to Women for Women?
+## How can I donate to Chelsea's Fund?
 
 You may donate online via [our Paypal account](/about/#donations) or
-you can mail your donation to Women for Women, PO Box 1472,
+you can mail your donation to Chelsea's Fund, PO Box 1472,
 Lander, WY 82520. See our [About Us](/about/#donations) page for more
 information. Thanks for asking!
 
 ## How will my donation be used?
 
-Women for Women is all-volunteer. That means all donated funds,
+Chelsea's Fund is all-volunteer. That means all donated funds,
 excepting negligible amounts for stamps, P.O. Box fees, etc., go
 entirely to help people pay for the cost of the abortion. See our
 [About Us](/about) page for more information.

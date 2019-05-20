@@ -1,16 +1,17 @@
 ---
 permalink: /about/
 layout: single
-title: "About Women for Women"
+title: "About Chelsea's Fund"
 toc: true
 ---
 
-Women for Women was established in 1998 and has been supporting
-Wyoming women ever since.
+Chelsea's Fund was established in 1998 and has been supporting Wyoming
+women ever since. [Prior to 2019](/newname/), we were known as Women
+for Women.
 
 ## Overview
 
-[Women for Women](/) is a 501(c)(3) non-profit organization
+[Chelsea's Fund](/) is a 501(c)(3) non-profit organization
 established to ensure Wyoming people can make and implement the
 critical personal decision whether to terminate a pregnancy. Currently, 
 Wyoming residents must travel out of state or to the far western corner 
@@ -38,7 +39,7 @@ result of lacking sufficient money.
 
 ## Donations
 
-Women for Women is all-volunteer. That means all donated funds,
+Chelsea's Fund is all-volunteer. That means all donated funds,
 excepting negligible amounts for stamps, PO Box fees, etc., go
 entirely to helping women pay for the cost of the
 abortion. Consequently, any donation you make directly helps a Wyoming
@@ -58,20 +59,20 @@ You can **donate to us online** via PayPal:
   </form>
 </div>
 
-Or by **mailing a check** made out for "Women for Women" to:
+Or by **mailing a check** made out for "Chelsea's Fund" to:
 
-Women for Women  
+Chelsea's Fund  
 P.O. Box 1472  
 Lander, WY 82520  
 {: .text-center}
 
-Women for Women is recognized by the IRS as a 501(c)(3) non-profit
+Chelsea's Fund is recognized by the IRS as a 501(c)(3) non-profit
 organization, EIN 83-0322262. Donations are deductible to the extent allowed by
 law.
 
 ## Website
 
-The Women for Women website is built using
+The Chelsea's Fund website is built using
 [Jekyll](https://jekyllrb.com/) and [Minimal
 Mistakes](https://mmistakes.github.io/minimal-mistakes/). The [source
 code](https://github.com/wyomingw4w/wyomingw4w.org) is available on

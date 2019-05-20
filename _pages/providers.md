@@ -34,7 +34,7 @@ and surgical abortions are more expensive than medical
 abortions. Abortions involving IV sedation (some surgical procedures)
 or for women who are [Rh
 negative](https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy)
-may incur additional charges. **[Women for Women](/) can provide
+may incur additional charges. **[Chelsea's Fund](/) can provide
 [financial assistance](/financial) to those who require it.**
 
 **If you are a minor**, a parent or guardian may need to be notified

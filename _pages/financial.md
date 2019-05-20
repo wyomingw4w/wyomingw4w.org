@@ -5,7 +5,7 @@ title: "Financial Assistance"
 ---
 
 If you are a Wyoming or eastern Idaho resident and are unable to afford an abortion,
-[Women for Women](/) is here to help you. If you reside elsewhere,
+[Chelsea's Fund](/) is here to help you. If you reside elsewhere,
 please contact the [National Network of Abortion
 Funds](https://abortionfunds.org/) for funding suggestions.
 
@@ -24,7 +24,7 @@ cost. Discuss your financial situation with the clinic, and ask them
 whether they have any means to reduce the price or know of other
 sources of support. _(Some clinics have their own funds to help reduce
 costs.)_
-4. **Call Women for Women at {{ site.author.phone }}**.
+4. **Call Chelsea's Fund at {{ site.author.phone }}**.
 
 **When you call**, one of our volunteers will ask you a few questions,
 which may include questions about your income, family support,

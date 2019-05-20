@@ -7,7 +7,7 @@ toc: true
 
 This page provides links to other abortion resources, as well as
 highlighting various news and journalism covering the topic of
-abortion. [Women for Women](/) is not generally affiliated with the
+abortion. [Chelsea's Fund](/) is not generally affiliated with the
 links on this page, but provides them as potentially useful to other
 Wyoming women.
 
@@ -15,7 +15,7 @@ Wyoming women.
 
 ### Wyoming Abortion Fund
 
-Like Women for Women, the [Wyoming Abortion
+Like Chelsea's Fund, the [Wyoming Abortion
 Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patient-resources/wyoming-abortion-fund)
 assists Wyoming residents in funding abortions. If you live in Wyoming and
 need help paying for an abortion, the Wyoming Abortion Fund may be
@@ -68,7 +68,7 @@ low-income women, immigrant women, Native and indigenous women,
 minors, women in prison, and rural and urban women working at the
 national level to fight against unjust policies like the Hyde
 Amendment that interfere with low-income women's access to abortion
-care. **Women for Women is a proud NNAF affiliate.**
+care. **Chelsea's Fund is a proud NNAF affiliate.**
 
 ### Planned Parenthood
 
