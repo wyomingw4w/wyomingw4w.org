@@ -15,7 +15,7 @@ locale                   : "en"
 title                    : "Chelsea's Fund"
 title_separator          : "-"
 name                     : "Chelsea's Fund"
-description              : "Supporting Reproductive Rights for Wyoming Women"
+description              : "Care and Justice Through Abortion Access"
 url                      : "https://www.chelseasfund.org"
 baseurl                  : # "/"
 repository               : "wyomingw4w/wyomingw4w.org"
@@ -56,7 +56,7 @@ analytics:
 author:
   name             : "Chelsea's Fund"
   avatar           : # path of avatar image
-  bio              : "Supporting reproductive rights for Wyoming women"
+  bio              : "Care and Justice Through Abortion Access"
   location         : "PO Box 1472, Lander"
   phone            : "307-438-9272"
   email            :
