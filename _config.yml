@@ -55,7 +55,7 @@ analytics:
 # Site Author
 author:
   name             : "Chelsea's Fund"
-  avatar           : # path of avatar image
+  avatar           : "/assets/images/logo1.png"
   bio              : "Care and Justice Through Abortion Access"
   location         : "PO Box 1472, Lander"
   phone            : "307-438-9272"
