@@ -33,9 +33,9 @@ physical, emotional and financial health should not depend on whether
 they have the financial resources to instantly pay this unexpected and
 significant expense. Having sufficient funds should not be the
 determining factor for whether to carry a pregnancy to term. Chelsea's
-Fund is here to help bring reproductive justice to Wyoming people and
-to make sure that children are wanted, intentional, and not a result
-of lacking sufficient money.
+Fund is here to help bring reproductive justice to Wyoming residents
+and to make sure that children are wanted, intentional, and not a
+result of lacking sufficient money.
 
 ## Donations
 
