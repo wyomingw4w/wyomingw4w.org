@@ -44,15 +44,15 @@ period. The most common course of medication uses a combination of
 [misoprostol](https://medlineplus.gov/druginfo/meds/a689009.html), as
 well as antibiotics to reduce the chance of infection. The combination
 of these medications stop the fetus from developing and induces the
-uterus to contract and empty. Most women describe the experience of
-medication abortion as feeling like a bad menstrual period with strong
-cramps. Women may experience fever, chills, diarrhea or nausea, as
-well. The pregnancy will be expelled from the uterus in 4 to 6 hours,
-after which the pain and cramping usually improve. Bleeding may
-continue for up to two weeks, and spotting may continue for several
-weeks. The pain can be managed with over-the-counter pain medication
-such as acetaminophen (Tylenol) or ibuprofen (Advil or Motrin), or
-heating pads.
+uterus to contract and empty. Most individuals describe the experience
+of medication abortion as feeling like a bad menstrual period with
+strong cramps. Individuals may experience fever, chills, diarrhea or
+nausea, as well. The pregnancy will be expelled from the uterus in 4
+to 6 hours, after which the pain and cramping usually
+improve. Bleeding may continue for up to two weeks, and spotting may
+continue for several weeks. The pain can be managed with
+over-the-counter pain medication such as acetaminophen (Tylenol) or
+ibuprofen (Advil or Motrin), or heating pads.
 
 Medical abortion is highly effective, but in rare cases (about 3% of
 the time) the abortion fails to complete. In these cases, a [surgical

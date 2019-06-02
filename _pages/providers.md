@@ -32,7 +32,7 @@ Abortion costs vary by provider and length of pregnancy. In general,
 later term abortions are more expensive than earlier term abortions,
 and surgical abortions are more expensive than medical
 abortions. Abortions involving IV sedation (some surgical procedures)
-or for women who are [Rh
+or for individuals who are [Rh
 negative](https://www.acog.org/Patients/FAQs/The-Rh-Factor-How-It-Can-Affect-Your-Pregnancy)
 may incur additional charges. **[Chelsea's Fund](/) can provide
 [financial assistance](/financial) to those who require it.**

@@ -44,7 +44,7 @@ through with your decision. _
 
 **If we do not answer, please leave a message** with your name and
 number and the date and time of your appointment. Please be aware that
-we do not have an office; we are an organization of women with other
+we do not have an office; we are an organization of volunteers with other
 jobs who do our best to return your call as soon as we can. We will
 return your call within one business day, and often within a matter of
 hours.
@@ -55,7 +55,7 @@ Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patie
 at 866-372-7526.** The Wyoming Abortion Fund is a separate fund
 managed by Planned Parenthood. It is specifically intended to help 
 Wyoming residents afford an abortion. You are welcome to call them 
-before or after calling us.  It is not unusual for a woman
+before or after calling us.  It is not unusual for a person
 to receive funding from both funds, as needed.
 
 **When we provide assistance** we notify the clinic and pay them
