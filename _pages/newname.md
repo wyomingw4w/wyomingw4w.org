@@ -5,12 +5,13 @@ title: "We have a new name!"
 ---
 
 We are pleased to share with you that Women for Women’s name has
-officially changed to Chelsea’s Fund. Careful consideration, broad
-input, and quite some time went into this decision. While we definitely
-have historical and emotional attachments to the original name chosen
-by our founder Chelsea Kesselheim, we believe that this name change
-better reflects our mission as we move forward. Our key
-considerations in reaching this decision included:
+[officially changed](/assets/files/irs_501c3.pdf) to Chelsea’s
+Fund. Careful consideration, broad input, and quite some time went
+into this decision. While we definitely have historical and emotional
+attachments to the original name chosen by our founder Chelsea
+Kesselheim, we believe that this name change better reflects our
+mission as we move forward. Our key considerations in reaching this
+decision included:
 
 * We recognize reproductive healthcare as an issue that impacts all
 people and all families. We want our name to be inclusive,
