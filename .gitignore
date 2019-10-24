@@ -4,3 +4,4 @@
 # Jekyll Cruft
 _site
 .sass-cache
+.jekyll-cache

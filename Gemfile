@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 
 # Jekyll Version
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 4.0.0"
 
 # Jekyll Theme
-gem "minimal-mistakes-jekyll", "~> 4.16.3"
+gem "minimal-mistakes-jekyll", "~> 4.17.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
