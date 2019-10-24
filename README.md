@@ -1,9 +1,9 @@
-Wyoming Women for Women
-=======================
+Chelsea's Fund
+==============
 
-_The website for Wyoming Women for Women_
+_The website for Chelsea's Fund (F.K.A. Wyoming Women for Women)_
 
-**Available at https://www.wyomingw4w.org**
+**Available at https://www.chelseasfund.org/**
 
 Requirements
 ------------
