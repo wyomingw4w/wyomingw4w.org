@@ -87,3 +87,12 @@ affordable birth control options on a sliding scale based on your
 income. They will not deny anyone services because they are unable to
 pay. Teenagers do not need parental permission to receive birth control
 services.
+
+## Can I purchase abortion pills online?
+
+Information on self-managed care is available at
+[plancpills.org](https://plancpills.org/need-pills).  _Chelsea’s Fund
+provides this link for informational purposes only. We expressly are
+NOT providing any medical or legal advice about the appropriateness of
+self-managed abortion for you._ Chelsea’s Fund does not currently
+provide financial assistance for any online purchase of pills.

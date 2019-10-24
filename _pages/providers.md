@@ -44,6 +44,19 @@ Utah. To find out more about the specific requirements of the state
 where you will have the abortion and that state's judicial bypass options, contact
 the clinic where you plan to get your abortion.
 
+
+### Self-Managed Abortion
+
+You may have heard of people self-managing their abortions by
+purchasing abortion pills online. Information on self-managed care is
+available at
+[plancpills.org](https://plancpills.org/need-pills). _Chelsea’s Fund
+provides this link for informational purposes only. We expressly are
+NOT providing any medical or legal advice about the appropriateness of
+self-managed abortion for you._ Chelsea’s Fund does not currently
+provide financial assistance for any online purchase of pills.
+
+
 ## Providers
 
 Below you will find information about abortion providers in
