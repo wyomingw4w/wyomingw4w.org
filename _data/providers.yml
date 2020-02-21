@@ -16,9 +16,9 @@ Emerg-A-Care:
   url: "http://emergacare.com/"
   phone: "307-733-8002"
   medical: "Up to 10 weeks after last period"  
-  medical_cost: "$750. If RH negative, add $90."
+  medical_cost: "$900. If RH negative, add $90."
   surgical: "5 to 12 weeks after last period"  
-  surgical_cost: "$1099"
+  surgical_cost: "$1300"
 
 Planned Parenthood FtCo:
   name: "Planned Parenthood, Ft. Collins"
