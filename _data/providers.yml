@@ -8,18 +8,6 @@ Womens Health and Family Care:
   medical: "Up to 10 weeks after last period"  
   medical_cost: "$600"
 
-Emerg-A-Care:
-  name: "Emerg-A-Care"
-  note:
-  state: "WY"
-  address: "455 W Broadway, Jackson, Wyoming"
-  url: "http://emergacare.com/"
-  phone: "307-733-8002"
-  medical: "Up to 10 weeks after last period"  
-  medical_cost: "$900. If RH negative, add $90."
-  surgical: "5 to 12 weeks after last period"  
-  surgical_cost: "$1300"
-
 Planned Parenthood FtCo:
   name: "Planned Parenthood, Ft. Collins"
   note: "Abortions provided on Thursday, Friday, and Saturday"
