@@ -1,14 +1,13 @@
 ---
 permalink: /
 layout: single
-title: "Care and Justice Through Abortion Access"
+title: "Supporting Wyoming Abortion Access"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/scotus-splash.jpg
 excerpt: "A 501(c)(3) non-profit established to ensure that all Wyoming
-          residents are able to implement their choice to terminate a
-          pregnancy."
+          residents are able to access and afford an abortion."
 ---
 
 Chelsea's Fund ([formerly known as Women for Women](/newname/))
@@ -24,3 +23,19 @@ review the page on [financial assistance](financial) first), or feel
 you just need to speak to someone directly, **call us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
+
+If you'd like to support abortion access in Wyoming, you can You can
+**donate to us online**:
+
+<div class="text-center">
+  <form class="donation_form" action="https://www.paypal.com/cgi-bin/webscr"
+        method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="Q57G3Q73CJNML">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+           border="0" name="submit" alt="Donate via PayPal">
+  </form>
+</div>
+
+See [About Us](/about) for more information and additional donation
+options.
