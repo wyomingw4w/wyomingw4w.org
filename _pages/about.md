@@ -47,19 +47,9 @@ resident in a very stressful situation access critical reproductive
 health care and decision-making control over their own body. Please
 help us provide reproductive justice to Wyoming!
 
-You can **donate to us online** via PayPal:
-
-<div class="text-center">
-  <form class="donation_form" action="https://www.paypal.com/cgi-bin/webscr"
-        method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="Q57G3Q73CJNML">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-           border="0" name="submit" alt="Donate via PayPal">
-  </form>
-</div>
-
-Or by **mailing a check** made out for "Chelsea's Fund" to:
+You can [**donate to us online** via
+PayPal](https://www.paypal.com/donate?hosted_button_id=TNQ2887TN4NT4). Or
+by **mailing a check** made out for "Chelsea's Fund" to:
 
 Chelsea's Fund  
 P.O. Box 1472  

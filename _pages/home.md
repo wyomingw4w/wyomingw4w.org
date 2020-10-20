@@ -24,18 +24,8 @@ you just need to speak to someone directly, **call us at
 {{site.author.phone }}**. If we don't answer, please leave a
 message. We will get back to you within 1 business day.
 
-If you'd like to support abortion access in Wyoming, you can You can
-**donate to us online**:
-
-<div class="text-center">
-  <form class="donation_form" action="https://www.paypal.com/cgi-bin/webscr"
-        method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="Q57G3Q73CJNML">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-           border="0" name="submit" alt="Donate via PayPal">
-  </form>
-</div>
-
-See [About Us](/about) for more information and additional donation
-options.
+If you'd like to support abortion access in Wyoming, you can [donate
+to us
+online](https://www.paypal.com/donate?hosted_button_id=TNQ2887TN4NT4). See
+[About Us](/about/#donations ) for more information and additional
+donation options.
