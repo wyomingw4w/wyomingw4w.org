@@ -13,17 +13,6 @@ other Wyoming residents.
 
 ## Abortion and Health Resources
 
-### Wyoming Abortion Fund
-
-Like Chelsea's Fund, the [Wyoming Abortion
-Fund](https://www.plannedparenthood.org/planned-parenthood-rocky-mountains/patient-resources/wyoming-abortion-fund)
-assists Wyoming residents in funding abortions. If you live in Wyoming
-and need help paying for an abortion, the Wyoming Abortion Fund may be
-able to help you. Call their toll-free hotline, **(866) 372-7526**, to
-see if you qualify. Although this fund is administered by Planned
-Parenthood, you can choose any abortion provider; it does not have to
-be a Planned Parenthood health center.
-
 ### Exhale
 
 [Exhale](https://exhaleprovoice.org/) provides after-abortion support
